@@ -10,8 +10,11 @@ data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?
 
 # Files- 
 1)analysis.sql - data scraping and creating csv
+
 2)Cricket_EDA.ipynb - eda and data visualization using python
+
 3)batting.csv,bowling.csv,combined.csv- csv files that was scraped
+
 4)wicketspercent.png - image file for visualization
 
 Conclusion-
