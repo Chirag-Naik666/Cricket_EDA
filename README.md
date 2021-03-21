@@ -8,7 +8,7 @@ data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?
 2) Pandas and NumPy packages- To analyse and understand the data
 3) Matplotlib and Seaborn packages - To visualize the collected table
 
-# Files- 
+### Files- 
 1)analysis.sql - data scraping and creating csv
 
 2)Cricket_EDA.ipynb - eda and data visualization using python
@@ -17,6 +17,7 @@ data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?
 
 4)wicketspercent.png - image file for visualization
 
-Conclusion-
+### Conclusion-
+A lot of analysis and visualization is done on the match data to understand the series in depth
 
 ![Wicket percentage for India](wicketspercent.png)
