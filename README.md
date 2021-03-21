@@ -3,7 +3,21 @@
 
 data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?view=records'
 
-### tools used-
+### Tools used-
 1) MySql - To scrape data, make tables and join tables based on my need
 2) Pandas and NumPy packages- To analyse and understand the data
 3) Matplotlib and Seaborn packages - To visualize the collected table
+
+### Files- 
+1)analysis.sql - data scraping and creating csv
+
+2)Cricket_EDA.ipynb - eda and data visualization using python
+
+3)batting.csv,bowling.csv,combined.csv- csv files that was scraped
+
+4)wicketspercent.png - image file for visualization
+
+### Conclusion-
+A lot of analysis and visualization is done on the match data to understand the series in depth
+
+![Wicket percentage for India](wicketspercent.png)
