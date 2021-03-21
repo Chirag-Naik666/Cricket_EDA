@@ -22,6 +22,7 @@ fours int,
 sixes int);
 
 #inserting values from cricinfo website
+desc batting;
 
 insert into batting
 (Player,
