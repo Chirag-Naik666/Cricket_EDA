@@ -9,6 +9,5 @@ data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?
 3) Matplotlib and Seaborn packages - To visualize the collected table
 
 Conclusion-
-![Best All-round performance](allround.png)
 
-![Wicket percentage for India](wicketpercent.png)
+![Wicket percentage for India](wicketspercent.png)
