@@ -1,5 +1,8 @@
 # Cricket_EDA
-Data Collection using mysql and EDA using Tableau
+  As a Hardcore cricket fan and data enthusiast, i absolutely loved every second i spent on this project. The project involves collection of data to make a csv file and then visualize it.
 
 data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?view=records'
-In this project i make csv files from the data using mysql workbench
+
+### tools used-
+1) mysql - to scrape data, make tables and join tables based on my need
+2) python - to visualize the collected table
