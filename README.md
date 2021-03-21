@@ -4,5 +4,6 @@
 data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?view=records'
 
 ### tools used-
-1) mysql - to scrape data, make tables and join tables based on my need
-2) python - to analyse and visualize the collected table
+1) MySql - To scrape data, make tables and join tables based on my need
+2) Pandas and NumPy packages- To analyse and understand the data
+3) Matplotlib and Seaborn packages - To visualize the collected table
