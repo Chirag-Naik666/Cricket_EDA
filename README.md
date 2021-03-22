@@ -7,6 +7,7 @@ data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?
 1) MySql - To scrape data, make tables and join tables based on my need
 2) Pandas and NumPy packages- To analyse and understand the data
 3) Matplotlib and Seaborn packages - To visualize the collected table
+4) Tableau public- to visualize and get indepth stat analysis
 
 ### Files- 
 1)analysis.sql - data scraping and creating csv
@@ -16,6 +17,8 @@ data scaraped from- 'https://www.espncricinfo.com/ci/engine/series/1243364.html?
 3)batting.csv,bowling.csv,combined.csv- csv files that was scraped
 
 4)wicketspercent.png - image file for visualization
+
+5)Run Analysis of India vs England 2021 test series..twbx- Tableau file
 
 ### Conclusion-
 A lot of analysis and visualization is done on the match data to understand the series in depth
